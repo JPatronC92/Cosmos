@@ -1,0 +1,48 @@
+<div align="center">
+  
+# 🌌 Proyecto Cosmos: Nuestro Lugar en el Universo
+
+> *"La imaginación a menudo nos llevará a mundos que nunca fueron. Pero sin ella, no vamos a ninguna parte."* — **Carl Sagan**
+
+**[✨ INICIAR EXPLORACIÓN EN VIVO ✨](https://cosmos-explorer-633653766713.us-central1.run.app)**
+
+![Cosmos Explorer Preview](https://via.placeholder.com/800x400/0a0a1a/00f2ff?text=Inserta+aqui+un+GIF+de+tu+aplicacion)
+
+</div>
+
+## 🔭 Sobre el Proyecto
+
+**Proyecto Cosmos** es una experiencia web interactiva en 3D diseñada para despertar la curiosidad científica en la juventud y honrar el inmenso legado de la divulgación astronómica (en particular la serie *Cosmos* de Carl Sagan). 
+
+Más que un simple mapa estelar, es un simulador educativo inmersivo que permite navegar a través de nuestro Sistema Solar local. Puedes orbitar desde el ardiente Sol hasta el distante Plutón, observando anillos translúcidos y viajando a las lunas individuales de cada gigante gaseoso.
+
+Acompañando tu viaje, un **Guía de IA Narrativo (Archivo Sagan)** alimentado por Google Gemini proporciona datos asombrosos, contextos históricos de descubrimientos e inspiradoras reflexiones sobre nuestro lugar en el cosmos.
+
+---
+
+## 🚀 Características Principales
+
+- **Simulador 3D Fluido:** Gráficos procedurales e iluminación físicamente correcta (PBR) creados desde cero.
+- **Voz del Cosmos (IA):** En lugar de datos fríos, la IA contextualiza cada planeta con poesía científica y asombro genuino.
+- **Navegación Profunda:** No te quedes en la superficie. Viaja desde Júpiter directamente hasta su luna Europa con movimientos de cámara cinematográficos.
+- **Modo Rendimiento ⚡:** Optimización de un solo clic que desactiva post-procesamientos pesados, permitiendo a estudiantes con hardware limitado correr la simulación sin problemas.
+
+---
+
+## 🛠️ Ecosistema Tecnológico
+
+Este proyecto fue desarrollado bajo una arquitectura moderna y robusta:
+- **Frontend / Motores Gráficos:** React 19, Three.js, React Three Fiber.
+- **Estilos / UX:** Tailwind CSS v4, Motion (Framer).
+- **Inteligencia Artificial:** Google Gemini (Generación dinámica de información astronómica).
+- **Infraestructura:** Desplegado mediante contenedores en la red global de **Google Cloud Run** para escalabilidad empresarial.
+
+---
+
+<div align="center">
+  
+*«Somos polvo de estrellas que reflexiona sobre las estrellas.»*
+
+🚀 **[Vuela al Cosmos ahora](https://cosmos-explorer-633653766713.us-central1.run.app)** 🚀
+
+</div>
